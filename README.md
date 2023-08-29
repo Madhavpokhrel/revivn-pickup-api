@@ -1,7 +1,5 @@
 # Revivn Pickup App
 
-This is a simple React TypeScript application that allows users to submit pickup requests and track their statuses.
-
 ## Installation
 
 ```bash
